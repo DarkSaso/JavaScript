@@ -1,0 +1,46 @@
+/* this file is the style of the page don't touch this 
+or you could risk breaking the page */
+body{
+    background-color: darkmagenta;
+    text-align: center;
+    text-decoration: yellow;
+}
+.bar{
+    background-color: black;
+}
+.welcome{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+.googlec{
+    color: black;
+    font-size: 36px;
+    text-align: left;
+}
+.openc{
+    color: black;
+    font-size: 25px;
+    text-align: left;
+}
+.contact{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+.tg{
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+.srv{
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+.linkstyle{
+    color: white;
+}
+.linkstyle2{
+    color: black;
+}
